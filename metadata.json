@@ -1,0 +1,6 @@
+{
+  "name": "Tutorial Hidup di PUR",
+  "description": "Guidebook interaktif untuk peserta magang baru di KPw Bank Indonesia Sulawesi Selatan, Divisi Pengelolaan Uang Rupiah (PUR).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
