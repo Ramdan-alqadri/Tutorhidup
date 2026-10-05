@@ -529,7 +529,7 @@ export const Chapter4Pekerjaan: React.FC = () => {
 
             <div className="p-3.5 flex justify-between items-center">
               <span className="font-semibold text-slate-600">Validator</span>
-              <span className="font-bold text-[#084CAC] text-xs text-right">Pak Ayub Pelita Hati***</span>
+              <span className="font-bold text-[#084CAC] text-xs text-right">Pak Fadli Muin</span>
             </div>
           </div>
         </div>
@@ -538,7 +538,7 @@ export const Chapter4Pekerjaan: React.FC = () => {
         <div className="p-3.5 rounded-xl bg-slate-50 border border-slate-200 text-xs text-slate-600 space-y-1">
           <p><strong>*Catatan 0302:</strong> Perlu dikonfirmasi sebagai kode kontainer.</p>
           <p><strong>**Catatan Sifat Berkas:</strong> Jangan terapkan sifat "Biasa" otomatis pada berkas rahasia; mintalah arahan pegawai.</p>
-          <p><strong>***Catatan Validator:</strong> Dalam catatan disebut berlaku sampai akhir Februari; tahun dan validator terkini perlu dikonfirmasi.</p>
+          <p><strong>***Catatan Validator:</strong> Validator resmi yang dipilih saat penginputan adalah <strong>Pak Fadli Muin</strong>.</p>
         </div>
       </section>
 
@@ -578,7 +578,7 @@ export const Chapter4Pekerjaan: React.FC = () => {
             </div>
             <div className="flex items-center justify-between">
               <span className="text-slate-500 font-medium">Validator:</span>
-              <span className="font-bold text-[#084CAC] text-xs">Pak Ayub Pelita Hati</span>
+              <span className="font-bold text-[#084CAC] text-xs">Pak Fadli Muin</span>
             </div>
             <div className="flex items-center justify-between">
               <span className="text-slate-500 font-medium">Kontainer:</span>
